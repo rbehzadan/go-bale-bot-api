@@ -1,3 +1,3 @@
-module github.com/rbehzadan/go-bale-bot-api/v2
+module github.com/rbehzadan/go-bale-bot-api/v5
 
 go 1.16
